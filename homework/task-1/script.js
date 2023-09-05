@@ -1,4 +1,3 @@
-
 const redTitle = document.getElementById("red-title")
 const blueTitle = document.getElementById("blue-title")
 
